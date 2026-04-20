@@ -17,10 +17,3 @@ Benvenuti nel mio repository! Questo progetto è stato sviluppato da **Giulio Ra
 ## Tecnologie Utilizzate
 * **Linguaggio:** [Python]
 * **IDE:** [VS Code] 
-
-## Installazione e Utilizzo
-Per provare il progetto sul tuo computer:
-
-1. Clona la repository:
-   ```bash
-   git clone [https://github.com/giulioraho/](https://github.com/giulioraho/)[nome-repo].git
