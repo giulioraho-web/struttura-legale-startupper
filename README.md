@@ -16,8 +16,7 @@ Benvenuti nel mio repository! Questo progetto è stato sviluppato da **Giulio Ra
 
 ## Tecnologie Utilizzate
 * **Linguaggio:** [Python]
-* **IDE:** [VS Code]
-* **Versione:** 
+* **IDE:** [VS Code] 
 
 ## Installazione e Utilizzo
 Per provare il progetto sul tuo computer:
